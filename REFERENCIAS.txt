@@ -1,0 +1,20 @@
+1 - HALLIDAY, David; RESNICK, Robert. Fundamentos de Física. 8. ed. Rio de Janeiro: Ltc, 2009. página 217. >>>> PRONTO
+
+2 - Clapeyron	ATKINS - química, 3ª edição pagina 243 >>>>> FORMATO
+
+3 - gases ideais ATKINS - química, 3ª edição PAGINA 258 - 259 >>> FORMATO
+
+4 - Microcontroladores http://estudio01.proj.ufsm.br/cadernos/ifmg/tecnico_automacao_industrial/microcontroladores.pdf  >>> Esse aqui precisa dar uma olhada para referenciar esse artigo, não só colocar o site
+
+5 -  https://www.embarcados.com.br/arduino-uno/ >>>> Pronto
+Acessado em 24/06/2017, às 19:40
+
+6 - https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout/overview >>>> Pronto
+Acessado em 24/06/2017, às 19:40
+
+7 - https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf  >>> PRONTO
+Acessado em 02/07/2017 às 05:35
+
+8 - Moura, D. G e Barbosa, E. F. , Ed. Vozes, 6a Edição - Cap. 2. >>>> PRONTO
+
+9 - montagem I2C  >>> Precisa dar uma pesquisada e talz, mas é simples, qualquer site que fale sobre
